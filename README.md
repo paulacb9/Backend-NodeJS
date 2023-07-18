@@ -1,1 +1,5 @@
-Esta carpeta es creada automaticamente con todos los node_modules a partir del cmd cuando se crea el proyecto
+La carpeta:
+
+    node_modules
+
+es creada automaticamente cuando se crea el proyecto en el cmd
