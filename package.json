@@ -1,0 +1,22 @@
+{
+  "name": "api-rest-node.js",
+  "version": "1.0.0",
+  "description": "Api Rest del master de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Paula C. Blanch",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.9"
+  }
+}
