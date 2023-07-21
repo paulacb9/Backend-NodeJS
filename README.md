@@ -18,9 +18,9 @@ IMPORTANT: no importados los ficheros node_modules instalar/crear proyecto de No
 	verison: `1.0.0`
     description: `Descripcion del proyecto`
     entery point: `index.js`
-    test comand: ``
-    keyword: ``
-    author: ``
+    test comand: ` `
+    keyword: ` `
+    author: ` `
     licence: `MIT`
 
 Navegando en http://localhost:4200/. La aplicación se actualizará automaticamente cuando se realicen y guarden cambios en los archivos.
